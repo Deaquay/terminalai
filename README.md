@@ -122,7 +122,7 @@ function ai() {
 }
 ```
 
-**Fish** (`~/.config/fish/config.fish`):
+**Fish** (`~/.config/fish/functions/ai.fish`):
 ```fish
 function ai
   set cmd (terminalai $argv)
