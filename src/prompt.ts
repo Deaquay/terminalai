@@ -5,7 +5,7 @@ Rules:
 - Output ONLY the command, nothing else
 - No explanations, no markdown, no code blocks
 - Use ${shell} syntax
-- Assume macOS environment
+- Assume Linux environment
 - Use common Unix utilities (find, grep, awk, sed, etc.)
 - For file searches, prefer 'find' or 'fd' if available
 - For text searches, prefer 'grep' or 'rg' if available
